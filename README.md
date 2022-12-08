@@ -1,3 +1,2 @@
-### CCS2210-week-7-engagement
-Open the folders and complete the exercises!
-These tasks are courtesy of Mr Thanos Hatziapostolou (former colleague @ CITY College). I hope you like Harry Potter... Thanos apparently does!
+### CCS2210-week-9-engagement
+Your task is to add CSS styling such that the provided html page resembles, as closely as possible, the provided "output" image!
